@@ -45,7 +45,7 @@ Key measures driving the analytics:
 * **Energy mix diversity**: Treemap and stacked visuals make it clear which countries rely heavily on a single fuel versus those with a more diversified mix (e.g., significant shares of natural gas or nuclear alongside coal and oil).
 
 ---
-🛠 Tools Utilized
+## 🛠 Tools Utilized
 * **Power BI Desktop**: Data visualization & modeling
 * **DAX (Data Analysis Expressions)**: Custom measures for production, consumption, and trade KPIs.
 * **Power Query**: Cleaning and shaping the energy dataset.
